@@ -137,11 +137,11 @@ Modern animated portfolio built with:
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
 
-  <a href="mailto:2400031810cse4@gmail.com">
+  <a href="mailto:lalithadityasinguparapu@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://lalithdevportfolio.vercel.app">
     <img src="https://img.icons8.com/fluency/48/globe-earth.png" height="42" />
   </a>
 </p>
