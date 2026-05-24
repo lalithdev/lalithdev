@@ -125,29 +125,33 @@ Modern animated portfolio built with:
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lalith-aditya-singuparapu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:2400031810cse4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/lalithdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
 </a>
 
 </div>
-
 ---
 
 <p align="center">
