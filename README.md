@@ -130,17 +130,19 @@ Modern animated portfolio built with:
 
 <p align="center">
   <a href="https://github.com/lalithdev">
-    <img src="https://cdn.simpleicons.org/github/white" height="32" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/lalith-aditya-singuparapu/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:2400031810cse4@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+  
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="42" />
   </a>
 </p>
 
