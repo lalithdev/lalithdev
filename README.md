@@ -70,7 +70,7 @@ Production-focused patient appointment booking platform built using:
 - REST APIs
 - Scalable backend architecture
 
----
+
 
 ### 📜 CertifyMe
 Certificate generation and management platform featuring:
@@ -79,7 +79,7 @@ Certificate generation and management platform featuring:
 - Full Stack architecture
 - Clean responsive UI
 
----
+
 
 ### 📋 ManageYourProject
 Project and workflow management application with:
@@ -88,7 +88,7 @@ Project and workflow management application with:
 - Backend API integration
 - Responsive dashboard UI
 
----
+
 
 ### 💼 Developer Portfolio
 Modern animated portfolio built with:
@@ -96,25 +96,34 @@ Modern animated portfolio built with:
 - Framer Motion
 - Editorial UI design
 - Fully responsive experience
+  
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lalithdev&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+## 📊 GitHub Stats
 
-  <img 
-    src="https://streak-stats.demolab.com?user=lalithdev&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=lalithdev&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=lalithdev&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  width="40%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
