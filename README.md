@@ -63,34 +63,58 @@ Full Stack Developer focused on scalable backend systems, modern web application
 ## 🌟 Featured Projects
 
 ### 🏥 BookMyCare
-Full Stack patient appointment booking platform with:
-- Spring Boot + PostgreSQL backend
+Production-focused patient appointment booking platform built using:
+- Spring Boot + PostgreSQL
 - JWT Authentication
-- Role-based access
-- Doctor & patient modules
-- Production-grade scalable architecture
-
-### 💼 Developer Portfolio
-Modern developer portfolio built with:
-- React + Tailwind + Framer Motion
-- Editorial UI design
-- Responsive animations
-- Optimized deployment
+- Role-Based Access
+- REST APIs
+- Scalable backend architecture
 
 ---
 
-## 📊 GitHub Stats
+### 📜 CertifyMe
+Certificate generation and management platform featuring:
+- Dynamic certificate creation
+- Verification system
+- Full Stack architecture
+- Clean responsive UI
+
+---
+
+### 📋 ManageYourProject
+Project and workflow management application with:
+- Task organization
+- Team/project tracking
+- Backend API integration
+- Responsive dashboard UI
+
+---
+
+### 💼 Developer Portfolio
+Modern animated portfolio built with:
+- React + Tailwind CSS
+- Framer Motion
+- Editorial UI design
+- Fully responsive experience
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalithdev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithdev&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lalithdev&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=lalithdev&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
