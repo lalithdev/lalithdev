@@ -127,31 +127,24 @@ Modern animated portfolio built with:
 ---
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/lalithdev">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lalith-aditya-singuparapu/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  
+  <a href="mailto:2400031810cse4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+  
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://skillicons.dev/icons?i=react" height="42" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/lalith-aditya-singuparapu/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:2400031810cse4@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/lalithdev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_PORTFOLIO_LINK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-</a>
-
-</div>
 ---
 
 <p align="center">
