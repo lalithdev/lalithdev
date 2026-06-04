@@ -10,24 +10,11 @@
 Hi 👋, I'm Lalith Aditya
 </h1>
 
-<h3 align="center">
-Full Stack Developer • Backend Engineering • AI-Powered Applications
-</h3>
-
-<p align="center">
-Building scalable systems with Spring Boot, React, PostgreSQL, Cloud Technologies, and AI-driven solutions.
-</p>
-
-<br>
-
 <p>
 I'm a Computer Science undergraduate passionate about building practical software that solves real-world problems. My primary focus is on backend engineering, full stack development, scalable architectures, and AI-powered applications. I enjoy transforming ideas into reliable products while continuously improving my problem-solving, system design, and software engineering skills.
 </p>
-
 <!-- Divider + Profile Views -->
-<br>
-
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blueviolet&style=flat-square"/>
 </p>
 
