@@ -60,45 +60,6 @@ Full Stack Developer focused on scalable backend systems, modern web application
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏥 BookMyCare
-Production-focused patient appointment booking platform built using:
-- Spring Boot + PostgreSQL
-- JWT Authentication
-- Role-Based Access
-- REST APIs
-- Scalable backend architecture
-
-
-
-### 📜 CertifyMe
-Certificate generation and management platform featuring:
-- Dynamic certificate creation
-- Verification system
-- Full Stack architecture
-- Clean responsive UI
-
-
-
-### 📋 ManageYourProject
-Project and workflow management application with:
-- Task organization
-- Team/project tracking
-- Backend API integration
-- Responsive dashboard UI
-
-
-
-### 💼 Developer Portfolio
-Modern animated portfolio built with:
-- React + Tailwind CSS
-- Framer Motion
-- Editorial UI design
-- Fully responsive experience
-  
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
