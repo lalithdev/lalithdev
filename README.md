@@ -4,21 +4,39 @@
   <img src="./lalith_banner.png" alt="Lalith Aditya Banner" />
 </p>
 
-<!--Hero--> 
+<!-- Hero -->
 
-<h1 > Welcome!!</h1>
+<h1 align="center">
+Hi 👋, I'm Lalith Aditya
+</h1>
 
-<p>
-Full Stack Developer focused on scalable backend systems, modern web applications, and AI-powered products
+<h3 align="center">
+Full Stack Developer • Backend Engineering • AI-Powered Applications
+</h3>
+
+<p align="center">
+Building scalable systems with Spring Boot, React, PostgreSQL, Cloud Technologies, and AI-driven solutions.
 </p>
 
---- 
+<br>
 
+<p>
+I'm a Computer Science undergraduate passionate about building practical software that solves real-world problems. My primary focus is on backend engineering, full stack development, scalable architectures, and AI-powered applications. I enjoy transforming ideas into reliable products while continuously improving my problem-solving, system design, and software engineering skills.
+</p>
+
+<!-- Divider + Profile Views -->
+<br>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blueviolet&style=flat-square"/>
+</p>
+
+---
 <!--About Me--> 
 
-## 🚀 ABOUT ME
+<h2 align="center">🚀 ABOUT ME</h2>
 
-- 🔭 Currently building **[BookMyCare](https://github.com/lalithdev/BookMyCare-Patient-Appointment-Booking-System)**
+- 🔭 Currently building **[BookMyCare](https://github.com/lalithdev/BookMyCare-Patient-Appointment-Booking-System)** - a scalable patient appointment booking platform
 - 🌱 Learning **System Design, AWS, Scalable Backend Engineering, and AI Integrations**
 - 💡 Interested in **Backend Systems, Full Stack Development, AI Products, and Cloud Architecture**
 - ⚙️ Strong focus on **Spring Boot, PostgreSQL, REST APIs, JWT Authentication, and React**
@@ -30,7 +48,7 @@ Full Stack Developer focused on scalable backend systems, modern web application
 
 <!--Tech Stack--> 
 
-## 🛠️ TECH STACK 
+<h2 align="center">🛠️ TECH STACK </h2>
 
 | Category | Skills |
 |-----------|---------|
@@ -44,7 +62,7 @@ Full Stack Developer focused on scalable backend systems, modern web application
 ---
 
 <!--Github Stats--> 
-## 📊 GITHUB STATS
+<h2 align="center"> 📊 GITHUB STATS</h2>
 
 <table>
 <tr>
@@ -115,12 +133,11 @@ Full Stack Developer focused on scalable backend systems, modern web application
 <a href="https://lalithdevportfolio.vercel.app"><img src="https://img.icons8.com/fluency/48/globe-earth.png" height="48"></a>
 </p>
 
----
-
 <!--Footer-->
 
 <p align="center">
-Building scalable products, learning deeply, and growing every day.
+Building scalable products, solving real-world problems, and growing every day.
 </p>
+
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
