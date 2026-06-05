@@ -1,24 +1,23 @@
 <!--Banner--> 
 
 <p align="center">
-  <img src="./lalith_banner_2172x543.png" alt="Lalith Aditya Banner" />
+  <img src="./lalith_banner_2064x510_clean.png" alt="Lalith Aditya Banner" />
 </p>
 
 <!-- Hero -->
+<h3 align="center">
+🚀 Building Scalable Software & AI-Powered Solutions and Turning Ideas Into Real-World Applications💡.
 
-<h1 align="center">
-Hi 👋, I'm Lalith Aditya
-</h1>
+</h3>
 
 <p>
 I'm a Computer Science undergraduate passionate about building practical software that solves real-world problems. My primary focus is on backend engineering, full stack development, scalable architectures, and AI-powered applications. I enjoy transforming ideas into reliable products while continuously improving my problem-solving, system design, and software engineering skills.
 </p>
 <!-- Divider + Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blueviolet&style=flat-square"/>
-</p>
+<img align="right"
+src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blueviolet&style=flat-square">
 
----
+<hr>
 <!--About Me--> 
 
 <h2 align="center">🚀 ABOUT ME</h2>
