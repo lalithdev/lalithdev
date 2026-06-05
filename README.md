@@ -1,7 +1,7 @@
 <!--Banner--> 
 
 <p align="center">
-  <img src="./lalith_banner.png" alt="Lalith Aditya Banner" />
+  <img src="./lalith_banner_2172x543.png" alt="Lalith Aditya Banner" />
 </p>
 
 <!-- Hero -->
