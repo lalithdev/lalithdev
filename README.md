@@ -138,12 +138,12 @@ src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blu
 
 <tr>
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithdev&theme=github-compact)"/>
+</td>
 
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalithdev&theme=github_dark"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=radical&hide_border=true"/>
 </td>
 </tr>
 </table>
