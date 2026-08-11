@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-I'm a Computer Science undergraduate passionate about building practical software that solves real-world problems. My primary focus is on backend engineering, full stack development, scalable architectures, and AI-powered applications. I enjoy transforming ideas into reliable products while continuously improving my problem-solving, system design, and software engineering skills.
+I'm a Computer Science undergraduate focused on backend engineering, full-stack development, and building reliable software systems. I work primarily with Java, Spring Boot, REST APIs, PostgreSQL, ReactJS, Python, and SQL, and I'm increasingly exploring cloud computing and AI-powered applications. I enjoy transforming ideas into practical products while continuously improving my problem-solving, system design, and software engineering skills.
 </p>
 <!-- Divider + Profile Views -->
 <img align="right"
